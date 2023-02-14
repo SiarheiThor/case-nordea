@@ -1,1 +1,1 @@
-
+Everything done with Python on purpose. Using SQL scripts would have been according to the best practices.
