@@ -18,7 +18,7 @@
     <br />
     Example of plotly interactive chart:
     <br />
-    <a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/SiarheiThor/example_projects/main/choropleth_map.html">
+    <a href="https://htmlpreview.github.io/?https://github.com/SiarheiThor/case-nordea/blob/main/graphs/choropleth_map.html">
     <img src="https://github.com/SiarheiThor/case-nordea/blob/main/graphs/assets_per_country.png" alt="Map" width="1000" height="600">
     </a>
     <br />
