@@ -7,7 +7,7 @@
 
 
   <p align="center">
-    This project is a recruitment case study for a data analysis position. Data slicing is done with python on purpose and I strongly recommend to use SQL queries instead. The data analysis is done using python, visualisations are created with Plotly library. There were 7 questions regarding a datamodel consisting of 5 datasets. 
+    The main obejctive of the case study was to extract and analyze financial data to gain insights on customer behavior, loan performance, and transaction patterns.  This particular dataset was divided across multiple tables: Customer, Instrument, Financial, GL, and Group GL, each containing information about customers, loans, transactions, and their respective groupings. For instance, using SQL, I had to join the 'Customer' table with the 'Instrument' table to understand the relationship between customer demographics and their respective loans. I further used aggregation functions to analyze the transactional data in the 'Financial' table to identify trends and patterns.While working with the 'GL' and 'Group GL' tables, I used SQL to categorize transactions and analyze them at a more granular level, which provided important insights into transaction types and their patterns.
     <br />
     <a href="https://github.com/SiarheiThor/case-nordea/blob/main/presentation/Final%20Presentation.pdf"><strong>Final presentation »</strong></a>
     <br />
