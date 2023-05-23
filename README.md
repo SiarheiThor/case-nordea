@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
   
   
-<h3 align="center">Recruitment case - Data Analyst </h3>  
+<h3 align="center"> Financial Data Analysis </h3>  
 
 
   <p align="center">
